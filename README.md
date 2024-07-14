@@ -32,3 +32,5 @@ console.log(fibonacciSequence)
 const factor = BigInt(1)
 await klassiToni.keepDivineRatio(providerURL, pkTestWallet, factor)
 ```
+## Liquidity, Holders, Prices
+Check [geckoterminal.com](https://www.geckoterminal.com/polygon_pos/pools/0x4a805da6bff05c2a916c6d3f01dfe2809adfc288)
