@@ -1,4 +1,4 @@
-[
+export const spassABI = [
 	{
 		"inputs": [],
 		"stateMutability": "nonpayable",
